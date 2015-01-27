@@ -4,7 +4,7 @@ title: Home
 ---
 
 <h2>The Hacker Project</h2>
-<p>Project Nsmg is a hacker group that builds tools for hackers. There are great people that you can work together to build great things and amazing projects.</p>
+<p>Project Nsmg is a hacker group that builds tools for hackers. There are great people that you can work together to build amazing projects.</p>
 <p>
   <a href="/about" class="btn">About Us</a>
   <a href="https://github.com/project-nsmg" class="btn">Github</a>

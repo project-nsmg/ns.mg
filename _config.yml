@@ -1,0 +1,39 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               "Project Nsmg"
+tagline:             A hacker group that builds tools for hackers.
+url:                 http://ns.mg
+baseurl:             /
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _scss
+  style:            :compressed
+
+# About/contact
+author:
+  name:              "sorpa'as plat"
+  url:               http://sorpaas.com
+  email:             me@sorpaas.com
+
+# Custom vars
+version:             1.0.0
+github:
+  repo:              https://github.com/project-nsmg/ns.mg
+
+collections:
+  projects:
+    output:          true
+  essays:
+    output:          true

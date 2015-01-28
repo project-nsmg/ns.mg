@@ -1,7 +1,7 @@
 @import "//fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:700";
 
 html.frontpage {
-  
+
   body {
     padding: 2rem 1rem;
     color: #93979e;
@@ -24,6 +24,7 @@ html.frontpage {
     color: #ebcb8b;
     border: .1rem solid #32343c;
     border-radius: .1rem;
+    margin-bottom: .5rem;
   }
   .btn:hover {
     color: #26282d;
@@ -74,4 +75,9 @@ html.frontpage {
     margin-top: 1rem;
   }
 
+  @media (max-width: 400px) {
+    .theme {
+      width: 100%;
+    }
+  }
 }

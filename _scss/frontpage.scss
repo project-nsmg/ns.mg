@@ -78,6 +78,11 @@ html.frontpage {
   @media (max-width: 400px) {
     .theme {
       width: 100%;
+      padding: 0 0;
+    }
+
+    .themes {
+      padding: 0 0;
     }
   }
 }

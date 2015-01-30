@@ -15,7 +15,7 @@ links:
 
 ### News
 
-A developping implementation can be found at [Github](http://github.com/sorpaas/munje).
+* A developping implementation can be found at [Github](http://github.com/sorpaas/munje).
 
 ### Introduction
 
@@ -255,6 +255,7 @@ Munje's concept and language design is similar to other programming languages in
 
 * Prolog
 * Idris
+* [Bloom](http://www.bloom-lang.net)
 
 ### Conclusion
 

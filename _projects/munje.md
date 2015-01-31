@@ -256,6 +256,7 @@ Munje's concept and language design is similar to other programming languages in
 * Prolog
 * Idris
 * [Bloom](http://www.bloom-lang.net)
+* [Samtrosku](http://www.lojban.org/tiki/samtrosku+specification)
 
 ### Conclusion
 

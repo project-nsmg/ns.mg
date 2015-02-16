@@ -76,4 +76,4 @@ title: Home
 
 <hr>
 
-<p>&copy; {{ site.time | date: '%Y' }} Project Nsmg.</p>
+<p>&copy; {{ site.time | date: '%Y' }} Project Nsmg. (<a href="https://status.ns.mg">Status</a>)</p>
